@@ -1,0 +1,6 @@
+# Add your project dependencies here
+# Format: package_name==version or package_name>=version
+
+numpy== 2.4.6
+pypdf==6.13.3
+google-genai==2.8.0
